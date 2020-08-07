@@ -14,9 +14,7 @@ I work in clinical psychology and explore the links between mental health and no
 I use observational methods to quantify facial expressions and other behavioral signals. My main goal is to understand the role that behavioral signals play in emotion and interpersonal communication.
 
 I use data science techniques from statistics, machine learning, and software engineering to address research challenges. I love to develop, share, and teach about tools that increase scientific rigor and openness.
-
 <br />
-
 [![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat)][windows]
 [![Rstats](https://img.shields.io/badge/Language-Rstats-informational?style=flat)][rstats]
 [![tidyverse](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat)][tidyverse]
@@ -24,15 +22,11 @@ I use data science techniques from statistics, machine learning, and software en
 [![caret](https://img.shields.io/badge/Tools-caret-informational?style=flat)][caret]
 [![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
 [![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat)][latex]
-
 <br />
-
 ## :hammer: Current Projects:
 - [circumplex: R package for the analysis and visualization of circular data][circumplex]
 - [agreement: R package for the tidy analysis of inter-rater agreement][agreement]
-
 <br />
-
 ## :memo: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Row-wise means in dplyr](https://jmgirard.com/rowwise-means/?utm_source=rss&utm_medium=rss&utm_campaign=rowwise-means)
@@ -41,9 +35,7 @@ I use data science techniques from statistics, machine learning, and software en
 - [Statistical Rethinking: Chapter 6 Practice](https://jmgirard.com/statistical-rethinking-ch6/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch6)
 - [Statistical Rethinking: Chapter 5 Practice](https://jmgirard.com/statistical-rethinking-ch5/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch5)
 <!-- BLOG-POST-LIST:END -->
-
 <br />
-
 ## GitHub Stats
 [![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -23,8 +23,8 @@ I use data science techniques from statistics, machine learning, and software en
 [![brms](https://img.shields.io/badge/Tools-brms-informational?style=flat)][brms]
 [![caret](https://img.shields.io/badge/Tools-caret-informational?style=flat)][caret]
 [![Rmarkdown](https://img.shields.io/badge/Tools-RMarkdown-informational?style=flat)][rmarkdown]
-[![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
 [![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat)][latex]
+[![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
 
 ## :hammer: Current Projects:
 - [circumplex: R package for the analysis and visualization of circular data][circumplex]

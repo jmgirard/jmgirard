@@ -14,16 +14,12 @@ I use data science techniques from statistics, machine learning, and software en
 [<img align="left" width="22px" alt="Google Scholar" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlescholar.svg" />][scholar]
 [<img align="left" width="22px" alt="Publons" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/publons.svg" />][publons]
 [<img align="left" width="22px" alt="OrcId" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/orcid.svg" />][orcid]
-
 <br /><br />
-
 ## :hammer: Current Projects:
 - circumplex
 - agreement
 - standist
-
 <br /><br />
-
 ## :memo: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Row-wise means in dplyr](https://jmgirard.com/rowwise-means/?utm_source=rss&utm_medium=rss&utm_campaign=rowwise-means)
@@ -32,9 +28,7 @@ I use data science techniques from statistics, machine learning, and software en
 - [Statistical Rethinking: Chapter 6 Practice](https://jmgirard.com/statistical-rethinking-ch6/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch6)
 - [Statistical Rethinking: Chapter 5 Practice](https://jmgirard.com/statistical-rethinking-ch5/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch5)
 <!-- BLOG-POST-LIST:END -->
-
 <br /><br />
-
 ## GitHub Stats
 <img align="left" alt="jmgirard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmgirard&show_icons=true&hide_border=true" />
 

@@ -22,6 +22,7 @@ I use data science techniques from statistics, machine learning, and software en
 [![tidyverse](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat)][tidyverse]
 [![brms](https://img.shields.io/badge/Tools-brms-informational?style=flat)][brms]
 [![caret](https://img.shields.io/badge/Tools-caret-informational?style=flat)][caret]
+[![Rmarkdown](https://img.shields.io/badge/Tools-RMarkdown-informational?style=flat)][rmarkdown]
 [![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
 [![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat)][latex]
 
@@ -48,6 +49,7 @@ I use data science techniques from statistics, machine learning, and software en
 [tidyverse]: https://www.tidyverse.org/
 [brms]: https://paul-buerkner.github.io/brms/
 [caret]: https://github.com/topepo/caret/
+[rmarkdown]: https://rmarkdown.rstudio.com/
 [travis]: https://travis-ci.org/
 [latex]: https://www.latex-project.org/
 [circumplex]: https://circumplex.jmgirard.com/

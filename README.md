@@ -22,7 +22,7 @@ I use data science techniques from statistics, machine learning, and software en
 <br />
 <br />
 
-### Blog Posts
+## Blog Posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 [kupsych]: https://psych.ku.edu

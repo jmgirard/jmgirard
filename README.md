@@ -25,6 +25,11 @@ I use data science techniques from statistics, machine learning, and software en
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Row-wise means in dplyr](https://jmgirard.com/rowwise-means/?utm_source=rss&utm_medium=rss&utm_campaign=rowwise-means)
+- [Exploring movie lengths using R](https://jmgirard.com/movie-lengths/?utm_source=rss&utm_medium=rss&utm_campaign=movie-lengths)
+- [Statistical Rethinking: Chapter 7 Practice](https://jmgirard.com/statistical-rethinking-ch7/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch7)
+- [Statistical Rethinking: Chapter 6 Practice](https://jmgirard.com/statistical-rethinking-ch6/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch6)
+- [Statistical Rethinking: Chapter 5 Practice](https://jmgirard.com/statistical-rethinking-ch5/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch5)
 <!-- BLOG-POST-LIST:END -->
 
 <br />

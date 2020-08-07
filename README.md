@@ -4,7 +4,7 @@
 [<img align="left" width="22px" alt="Google Scholar" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlescholar.svg" />][scholar]
 [<img align="left" width="22px" alt="Publons" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/publons.svg" />][publons]
 [<img align="left" width="22px" alt="OrcId" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/orcid.svg" />][orcid]
-
+<br />
 ### Hi there, I'm Jeffrey Girard! 
 
 I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku].

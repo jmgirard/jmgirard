@@ -17,7 +17,7 @@ I use data science techniques from statistics, machine learning, and software en
 
 <br /><br />
 
-## Current Projects:
+## :hammer: Current Projects:
 - circumplex
 - agreement
 - standist

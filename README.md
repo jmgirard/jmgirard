@@ -18,9 +18,8 @@ I use data science techniques from statistics, machine learning, and software en
 <br /><br />
 
 ## :hammer: Current Projects:
-- circumplex
-- agreement
-- standist
+- [circumplex: R package for the analysis and visualization of circular data][circumplex]
+- [agreement: R package for the tidy analysis of inter-rater agreement][agreement]
 
 <br />
 
@@ -38,6 +37,8 @@ I use data science techniques from statistics, machine learning, and software en
 ## GitHub Stats
 [![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
 
+[circumplex]: https://circumplex.jmgirard.com/
+[agreement]: https://github.com/jmgirard/agreement
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu
 [website]: https://www.jmgirard.com

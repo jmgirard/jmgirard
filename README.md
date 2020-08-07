@@ -5,8 +5,6 @@
 [<img align="left" width="22px" alt="Publons" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/publons.svg" />][publons]
 [<img align="left" width="22px" alt="OrcId" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/orcid.svg" />][orcid]
 
-<br />
-
 ### Hi there, I'm Jeffrey Girard! 
 
 I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku].
@@ -27,7 +25,7 @@ I use data science techniques from statistics, machine learning, and software en
 [![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
 [![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat)][latex]
 
-<br /><br />
+<br />
 
 ## :hammer: Current Projects:
 - [circumplex: R package for the analysis and visualization of circular data][circumplex]

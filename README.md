@@ -11,6 +11,8 @@ I use data science techniques from statistics, machine learning, and software en
 
 ## Current Projects:
 
+<br />
+
 ## Handy Links:
 [<img align="left" width="22px" alt="Website" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/home.svg" />][website]
 [<img align="left" width="22px" alt="Email" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope-square.svg" />][email]
@@ -19,8 +21,12 @@ I use data science techniques from statistics, machine learning, and software en
 [<img align="left" width="22px" alt="Publons" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/publons.svg" />][publons]
 [<img align="left" width="22px" alt="OrcId" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/orcid.svg" />][orcid]
 
+<br />
+
 ## Blog Posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+<br />
 
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu

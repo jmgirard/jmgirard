@@ -33,7 +33,10 @@ I use data science techniques from statistics, machine learning, and software en
 - [Statistical Rethinking: Chapter 5 Practice](https://jmgirard.com/statistical-rethinking-ch5/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch5)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+<br /><br />
+
+## GitHub Stats
+<img align="left" alt="jmgirard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmgirard&show_icons=true&hide_border=true" />
 
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu

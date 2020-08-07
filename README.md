@@ -1,3 +1,12 @@
+[<img align="left" width="22px" alt="Website" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/home.svg" />][website]
+[<img align="left" width="22px" alt="Email" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope-square.svg" />][email]
+[<img align="left" width="22px" alt="Twitter" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter-square.svg" />][twitter]
+[<img align="left" width="22px" alt="Google Scholar" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlescholar.svg" />][scholar]
+[<img align="left" width="22px" alt="Publons" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/publons.svg" />][publons]
+[<img align="left" width="22px" alt="OrcId" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/orcid.svg" />][orcid]
+
+<br />
+
 ### Hi there, I'm Jeffrey Girard! 
 
 I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku].
@@ -8,12 +17,14 @@ I use observational methods to quantify facial expressions and other behavioral 
 
 I use data science techniques from statistics, machine learning, and software engineering to address research challenges. I love to develop, share, and teach about tools that increase scientific rigor and openness.
 
-[<img align="left" width="22px" alt="Website" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/home.svg" />][website]
-[<img align="left" width="22px" alt="Email" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope-square.svg" />][email]
-[<img align="left" width="22px" alt="Twitter" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter-square.svg" />][twitter]
-[<img align="left" width="22px" alt="Google Scholar" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlescholar.svg" />][scholar]
-[<img align="left" width="22px" alt="Publons" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/publons.svg" />][publons]
-[<img align="left" width="22px" alt="OrcId" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/orcid.svg" />][orcid]
+<br />
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Language-R-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-tidyverse-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-brms-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-easystats-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat&color=2bbc8a)
 
 <br /><br />
 

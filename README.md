@@ -36,7 +36,7 @@ I use data science techniques from statistics, machine learning, and software en
 <br />
 
 ## GitHub Stats
-<img align="left" alt="jmgirard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmgirard&show_icons=true&hide_border=true" />
+[![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
 
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu

@@ -19,12 +19,13 @@ I use data science techniques from statistics, machine learning, and software en
 
 <br />
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat)
-![https://www.r-project.org/](https://img.shields.io/badge/Language-Rstats-informational?style=flat)
-![](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat)
-![](https://img.shields.io/badge/Tools-brms-informational?style=flat)
-![](https://img.shields.io/badge/Tools-caret-informational?style=flat)
-![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)
+[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat)][windows]
+[![Rstats](https://img.shields.io/badge/Language-Rstats-informational?style=flat)][rstats]
+[![tidyverse](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat)][tidyverse]
+[![brms](https://img.shields.io/badge/Tools-brms-informational?style=flat)][brms]
+[![caret](https://img.shields.io/badge/Tools-caret-informational?style=flat)][caret]
+[![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
+[![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat)][latex]
 
 <br /><br />
 
@@ -48,6 +49,13 @@ I use data science techniques from statistics, machine learning, and software en
 ## GitHub Stats
 [![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
 
+[windows]: https://www.microsoft.com/en-us/windows/get-windows-10
+[rstats]: https://www.r-project.org/
+[tidyverse]: https://www.tidyverse.org/
+[brms]: https://paul-buerkner.github.io/brms/
+[caret]: https://github.com/topepo/caret/
+[travis]: https://travis-ci.org/
+[latex]: https://www.latex-project.org/
 [circumplex]: https://circumplex.jmgirard.com/
 [agreement]: https://github.com/jmgirard/agreement
 [kupsych]: https://psych.ku.edu

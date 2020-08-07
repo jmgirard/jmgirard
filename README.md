@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeffrey Girard! 
 
-I'm an Assistant Professor of [Psychology][kupsych] at the [University of Kansas][ku].
+I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku].
 
 I work in clinical psychology and explore the links between mental health and nonverbal behavior. I collaborate with computer scientists and clinicians to develop technologies that support clinical practice.
 

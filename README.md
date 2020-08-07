@@ -20,7 +20,7 @@ I use data science techniques from statistics, machine learning, and software en
 <br />
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat)
-![](https://img.shields.io/badge/Language-Rstats-informational?style=flat)
+![https://www.r-project.org/](https://img.shields.io/badge/Language-Rstats-informational?style=flat)
 ![](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat)
 ![](https://img.shields.io/badge/Tools-brms-informational?style=flat)
 ![](https://img.shields.io/badge/Tools-caret-informational?style=flat)

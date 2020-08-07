@@ -19,12 +19,12 @@ I use data science techniques from statistics, machine learning, and software en
 
 <br />
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Language-R-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Packages-tidyverse-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Packages-brms-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Packages-easystats-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat)
+![](https://img.shields.io/badge/Language-R-informational?style=flat)
+![](https://img.shields.io/badge/Packages-tidyverse-informational?style=flat)
+![](https://img.shields.io/badge/Packages-brms-informational?style=flat)
+![](https://img.shields.io/badge/Packages-easystats-informational?style=flat)
+![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)
 
 <br /><br />
 

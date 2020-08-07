@@ -21,9 +21,9 @@ I use data science techniques from statistics, machine learning, and software en
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat)
 ![](https://img.shields.io/badge/Language-R-informational?style=flat)
-![](https://img.shields.io/badge/Packages-tidyverse-informational?style=flat)
-![](https://img.shields.io/badge/Packages-brms-informational?style=flat)
-![](https://img.shields.io/badge/Packages-caret-informational?style=flat)
+![](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat)
+![](https://img.shields.io/badge/Tools-brms-informational?style=flat)
+![](https://img.shields.io/badge/Tools-caret-informational?style=flat)
 ![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)
 
 <br /><br />

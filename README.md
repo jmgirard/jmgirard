@@ -19,9 +19,6 @@ I use data science techniques from statistics, machine learning, and software en
 [<img align="left" width="22px" alt="Publons" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/publons.svg" />][publons]
 [<img align="left" width="22px" alt="OrcId" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/orcid.svg" />][orcid]
 
-<br />
-<br />
-
 ## Blog Posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 

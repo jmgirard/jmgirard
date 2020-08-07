@@ -25,13 +25,9 @@ I use data science techniques from statistics, machine learning, and software en
 [![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
 [![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat)][latex]
 
-<br />
-
 ## :hammer: Current Projects:
 - [circumplex: R package for the analysis and visualization of circular data][circumplex]
 - [agreement: R package for the tidy analysis of inter-rater agreement][agreement]
-
-<br />
 
 ## :memo: Blog Posts
 

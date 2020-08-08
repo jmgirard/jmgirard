@@ -11,15 +11,13 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 I work in clinical psychology and explore the links between mental health and nonverbal behavior. I collaborate with computer scientists and clinicians to develop technologies that support clinical practice. I use observational methods to quantify facial expressions and other behavioral signals. My main goal is to understand the role that behavioral signals play in emotion and interpersonal communication. I use data science techniques from statistics, machine learning, and software engineering to address research challenges. I love to develop, share, and teach about tools that increase scientific rigor and openness.
 
-<br />
-
 ## :hammer: Tools and Frameworks:
 
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white" />
 
 ## :notebook: Current Projects:
-- [circumplex][circumplex] This is a maturing R package for 
-- [agreement: R package for the tidy analysis of inter-rater agreement][agreement]
+- [circumplex][circumplex] This is a maturing R package for analyzing and visualizing circular data.
+- [agreement][agreement] This is a developing R package for estimating inter-rater reliability.
 
 ## :memo: Blog Posts
 

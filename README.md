@@ -17,14 +17,7 @@ I use data science techniques from statistics, machine learning, and software en
 
 <br />
 
-[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat)][windows]
-[![Rstats](https://img.shields.io/badge/Language-Rstats-informational?style=flat)][rstats]
-[![tidyverse](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat)][tidyverse]
-[![brms](https://img.shields.io/badge/Tools-brms-informational?style=flat)][brms]
-[![caret](https://img.shields.io/badge/Tools-caret-informational?style=flat)][caret]
-[![Rmarkdown](https://img.shields.io/badge/Tools-RMarkdown-informational?style=flat)][rmarkdown]
-[![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat)][latex]
-[![TravisCI](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat)][travis]
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white" />
 
 ## :hammer: Current Projects:
 - [circumplex: R package for the analysis and visualization of circular data][circumplex]

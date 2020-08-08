@@ -11,9 +11,9 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 ## :hammer: Tools and Frameworks:
 
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white" />
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white" />
 
-## :notebook: Current Projects:
+## :computer: Current Software Projects:
 - [circumplex][circumplex] - This is a maturing R package for analyzing and visualizing circular data.
 - [agreement][agreement] - This is a developing R package for estimating inter-rater reliability.
 
@@ -27,18 +27,10 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [Statistical Rethinking: Chapter 5 Practice](https://jmgirard.com/statistical-rethinking-ch5/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch5)
 <!-- BLOG-POST-LIST:END -->
 
-## GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 [![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[windows]: https://www.microsoft.com/en-us/windows/get-windows-10
-[rstats]: https://www.r-project.org/
-[tidyverse]: https://www.tidyverse.org/
-[brms]: https://paul-buerkner.github.io/brms/
-[caret]: https://github.com/topepo/caret/
-[rmarkdown]: https://rmarkdown.rstudio.com/
-[travis]: https://travis-ci.org/
-[latex]: https://www.latex-project.org/
 [circumplex]: https://circumplex.jmgirard.com/
 [agreement]: https://github.com/jmgirard/agreement
 [kupsych]: https://psych.ku.edu

@@ -20,11 +20,11 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 ## :memo: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running RStudio Server via Ubuntu 20 on Windows 10](https://jmgirard.com/rstudio-wsl2/?utm_source=rss&utm_medium=rss&utm_campaign=rstudio-wsl2)
 - [Row-wise means in dplyr](https://jmgirard.com/rowwise-means/?utm_source=rss&utm_medium=rss&utm_campaign=rowwise-means)
 - [Exploring movie lengths using R](https://jmgirard.com/movie-lengths/?utm_source=rss&utm_medium=rss&utm_campaign=movie-lengths)
 - [Statistical Rethinking: Chapter 7 Practice](https://jmgirard.com/statistical-rethinking-ch7/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch7)
 - [Statistical Rethinking: Chapter 6 Practice](https://jmgirard.com/statistical-rethinking-ch6/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch6)
-- [Statistical Rethinking: Chapter 5 Practice](https://jmgirard.com/statistical-rethinking-ch5/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch5)
 <!-- BLOG-POST-LIST:END -->
 
 ## :chart_with_upwards_trend: GitHub Stats

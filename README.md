@@ -16,6 +16,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 ## :computer: Current Software Projects:
 - [circumplex][circumplex] - This is a maturing R package for analyzing and visualizing circular data.
 - [agreement][agreement] - This is a developing R package for estimating inter-rater reliability.
+- [tidymedia][tidymedia] - This is a developing R package for working with audio, video, and image files.
 
 ## :memo: Blog Posts
 

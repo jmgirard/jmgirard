@@ -34,6 +34,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 [circumplex]: https://circumplex.jmgirard.com/
 [agreement]: https://github.com/jmgirard/agreement
+[tidymedia]: https://github.com/jmgirard/tidymedia
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu
 [website]: https://www.jmgirard.com

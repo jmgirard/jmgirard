@@ -11,7 +11,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 ## :hammer: Tools and Frameworks:
 
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white" />
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 ## :computer: Current Software Projects:
 - [circumplex][circumplex] - This is a maturing R package for analyzing and visualizing circular data.

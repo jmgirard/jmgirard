@@ -21,11 +21,11 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 ## :memo: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slides from Run Linux R on Windows 10](https://jmgirard.com/slides-wsl-r/?utm_source=rss&utm_medium=rss&utm_campaign=slides-wsl-r)
+- [A Conceptual Introduction to Machine Learning](https://jmgirard.com/conceptual-ml/?utm_source=rss&utm_medium=rss&utm_campaign=conceptual-ml)
 - [Running RStudio Server via Ubuntu 20 on Windows 10](https://jmgirard.com/rstudio-wsl2/?utm_source=rss&utm_medium=rss&utm_campaign=rstudio-wsl2)
 - [Row-wise means in dplyr](https://jmgirard.com/rowwise-means/?utm_source=rss&utm_medium=rss&utm_campaign=rowwise-means)
 - [Exploring movie lengths using R](https://jmgirard.com/movie-lengths/?utm_source=rss&utm_medium=rss&utm_campaign=movie-lengths)
-- [Statistical Rethinking: Chapter 7 Practice](https://jmgirard.com/statistical-rethinking-ch7/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch7)
-- [Statistical Rethinking: Chapter 6 Practice](https://jmgirard.com/statistical-rethinking-ch6/?utm_source=rss&utm_medium=rss&utm_campaign=statistical-rethinking-ch6)
 <!-- BLOG-POST-LIST:END -->
 
 ## :chart_with_upwards_trend: GitHub Stats

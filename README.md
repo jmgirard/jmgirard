@@ -21,11 +21,11 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 ## :memo: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Fira Code Ligatures in RStudio](https://jmgirard.com/firacode/?utm_source=rss&utm_medium=rss&utm_campaign=firacode)
 - [Slides from Run Linux R on Windows 10](https://jmgirard.com/slides-wsl-r/?utm_source=rss&utm_medium=rss&utm_campaign=slides-wsl-r)
 - [A Conceptual Introduction to Machine Learning](https://jmgirard.com/conceptual-ml/?utm_source=rss&utm_medium=rss&utm_campaign=conceptual-ml)
 - [Running RStudio Server via Ubuntu 20 on Windows 10](https://jmgirard.com/rstudio-wsl2/?utm_source=rss&utm_medium=rss&utm_campaign=rstudio-wsl2)
 - [Row-wise means in dplyr](https://jmgirard.com/rowwise-means/?utm_source=rss&utm_medium=rss&utm_campaign=rowwise-means)
-- [Exploring movie lengths using R](https://jmgirard.com/movie-lengths/?utm_source=rss&utm_medium=rss&utm_campaign=movie-lengths)
 <!-- BLOG-POST-LIST:END -->
 
 ## :chart_with_upwards_trend: GitHub Stats

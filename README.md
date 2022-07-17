@@ -17,7 +17,8 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [circumplex][circumplex] - This is a maturing R package for analyzing and visualizing circular data.
 - [agreement][agreement] - This is a developing R package for estimating inter-rater reliability.
 - [tidymedia][tidymedia] - This is a developing R package for working with audio, video, and image files.
-- [lordicon][lordicon] - This is a developing Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML
+- [lordicon][lordicon] - This is a developing Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
+- [profiles][profiles] - This is a developing R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
 ## :memo: Blog Posts
 
@@ -37,6 +38,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [agreement]: https://github.com/jmgirard/agreement
 [tidymedia]: https://github.com/jmgirard/tidymedia
 [lordicon]: https://github.com/jmgirard/lordicon
+[profiles]: https://github.com/jmgirard/profiles
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu
 [website]: https://www.jmgirard.com

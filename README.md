@@ -20,7 +20,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [lordicon][lordicon] - This is a developing Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [profiles][profiles] - This is a developing R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
-## Methodological Trainings:
+## :school: Methodological Trainings:
 - [R for Social Scientists][r4ss] - This is a three day workshop introducing R, tidyverse, and easystats.
 - [Applied Machine Learning in R][appliedml] - This is a four day workshop introducing machine learning and tidymodels.
 

@@ -1,4 +1,5 @@
-[<img align="left" width="22px" alt="Website" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/home.svg#gh-light-mode-only" />][website]
+[![Website](https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/home.svg#gh-light-mode-only)][website]
+
 [<img align="left" width="22px" alt="Email" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope-square.svg#gh-light-mode-only" />][email]
 [<img align="left" width="22px" alt="Twitter" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter-square.svg#gh-light-mode-only" />][twitter]
 [<img align="left" width="22px" alt="Google Scholar" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlescholar.svg#gh-light-mode-only" />][scholar]

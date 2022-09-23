@@ -2,6 +2,8 @@
 
 I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku]. I work in clinical psychology and explore the links between mental health and nonverbal behavior. I collaborate with computer scientists and clinicians to develop technologies that support clinical practice. I use observational methods to quantify facial expressions and other behavioral signals. My main goal is to understand the role that behavioral signals play in emotion and interpersonal communication. I use data science techniques from statistics, machine learning, and software engineering to address research challenges. I love to develop, share, and teach about tools that increase scientific rigor and openness.
 
+*Lab Website:* https://affcom.jmgirard.com
+
 ## :hammer: Tools and Frameworks:
 
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />

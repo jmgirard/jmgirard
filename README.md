@@ -13,11 +13,15 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-## :computer: Current Software Projects:
+## :computer: Maturing Software Projects:
 - [circumplex][circumplex] - This is a maturing R package for analyzing and visualizing circular data.
+- [lordicon][lordicon] - This is a maturing Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
+
+## :computer: Developing Software Projects:
+- [wcc][wcc] - This is a developing R package for conducting windowed cross-correlation analyses.
+- [varde][varde] - This is a developing R package for decomposing the variance in mixed effects models.
 - [agreement][agreement] - This is a developing R package for estimating inter-rater reliability.
 - [tidymedia][tidymedia] - This is a developing R package for working with audio, video, and image files.
-- [lordicon][lordicon] - This is a developing Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [profiles][profiles] - This is a developing R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
 ## :school: Methodological Trainings:
@@ -53,3 +57,5 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [orcid]: https://orcid.org/0000-0002-7359-3746
 [r4ss]: https://pittmethods.github.io/r4ss/
 [appliedml]: https://pittmethods.github.io/appliedml/
+[wcc]: https://github.com/jmgirard/wcc
+[varde]: https://github.com/jmgirard/varde

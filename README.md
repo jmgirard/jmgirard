@@ -11,6 +11,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 ## :computer: Software Projects:
 - [circumplex][circumplex] - This is a stable R package for analyzing and visualizing circular data.
 - [lordicon][lordicon] - This is a stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
+- [embedpdf][embedpdf] - This is a stable Quarto extension for embedding PDF files in HTML.
 - [CARMA][carma] - This is a stable (but approaching end-of-life) software for collecting continuous media annotations.
 - [DARMA][darma] - This is a stable (but approaching end-of-life) software for collecting continuous two-dimensional media annotations.
 - [mReliability][mreliability] - This is a stable (but approaching end-of-life) set of MATLAB functions for estimating inter-rater reliability.
@@ -44,6 +45,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [agreement]: https://github.com/jmgirard/agreement
 [tidymedia]: https://github.com/jmgirard/tidymedia
 [lordicon]: https://github.com/jmgirard/lordicon
+[embedpdf]: https://github.com/jmgirard/embedpdf
 [profiles]: https://github.com/jmgirard/profiles
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu

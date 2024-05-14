@@ -22,11 +22,6 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [tidymedia][tidymedia] - This is an experimental R package for working with audio, video, and image files.
 - [profiles][profiles] - This is an experimental R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
-## :school: Methodological Trainings:
-- [R for Social Scientists][r4ss] - This is a three day workshop introducing R, tidyverse, and easystats.
-- [Machine Learning in R with tidymodels][tidymodels] - This is a three-hour workshop introducing machine learning and tidymodels.
-- [Applied Machine Learning in R][appliedml] - This is a four day workshop introducing machine learning and tidymodels.
-
 ## :memo: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -55,9 +50,6 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [scholar]: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
 [publons]: https://publons.com/researcher/517315/jeffrey-m-girard/
 [orcid]: https://orcid.org/0000-0002-7359-3746
-[r4ss]: https://pittmethods.github.io/r4ss/
-[tidymodels]: https://jmgirard.github.io/tips2022ml/
-[appliedml]: https://pittmethods.github.io/appliedml/
 [wcc]: https://github.com/jmgirard/wcc
 [varde]: https://github.com/jmgirard/varde
 [carma]: https://carma.jmgirard.com

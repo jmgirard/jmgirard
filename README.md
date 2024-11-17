@@ -24,7 +24,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 ## 🐳 Docker Images:
 - [rocker-bayes][rocker-bayes] - An Ubuntu-based image for Bayesian analysis in R
-- [wsl-cuda-whisper][wsl-cuda-whisper] - An image for AI-based transcription using WSL and CUDA
+- [wsl-cuda-whisper][wsl-cuda-whisper] - Images for AI-based transcription with CUDA-support on WSL
 
 ## 📈 GitHub Stats
 [![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)

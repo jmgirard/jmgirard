@@ -4,11 +4,11 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 *Lab Website:* https://affcom.ku.edu
 
-## :hammer: Tools and Frameworks:
+## 🔨 Tools and Frameworks:
 
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-## :computer: Software Projects:
+## 💻 Software Projects:
 - [circumplex][circumplex] - This is a stable R package for analyzing and visualizing circular data.
 - [lordicon][lordicon] - This is a stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [embedpdf][embedpdf] - This is a stable Quarto extension for embedding PDF files in HTML.
@@ -22,7 +22,11 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [tidymedia][tidymedia] - This is an experimental R package for working with audio, video, and image files.
 - [profiles][profiles] - This is an experimental R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
-## :chart_with_upwards_trend: GitHub Stats
+## 🐳 Docker Images:
+- [rocker-bayes][rocker-bayes] - An Ubuntu-based image for Bayesian analysis in R
+- [wsl-cuda-whisper][wsl-cuda-whisper] - An image for AI-based transcription using WSL and CUDA
+
+## 📈 GitHub Stats
 [![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -45,3 +49,5 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [carma]: https://carma.jmgirard.com
 [darma]: https://darma.jmgirard.com
 [mreliability]: https://mreliability.jmgirard.com
+[rocker-bayes]: https://github.com/jmgirard/rocker-bayes
+[wsl-cuda-whisper]: https://github.com/jmgirard/wsl-cuda-whisper

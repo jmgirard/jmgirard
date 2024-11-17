@@ -5,30 +5,26 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 *Lab Website:* https://affcom.ku.edu
 
 ## 🔨 Tools and Frameworks:
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-
-## 💻 Software Projects:
+## 🧮 Statistics Software:
 - [circumplex][circumplex] - This is a stable R package for analyzing and visualizing circular data.
+- [mReliability][mreliability] - This is a stable (but approaching end-of-life) set of MATLAB functions for estimating inter-rater reliability.
+- [wcc][wcc] - This is an experimental R package for conducting windowed cross-correlation analyses.
+- [varde][varde] - This is an experimental R package for decomposing the variance in mixed effects models.
+- [agreement][agreement] - This is an experimental R package for estimating inter-rater reliability.
+
+## 🧭 Research Software:
 - [lordicon][lordicon] - This is a stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [embedpdf][embedpdf] - This is a stable Quarto extension for embedding PDF files in HTML.
 - [CARMA][carma] - This is a stable (but approaching end-of-life) software for collecting continuous media annotations.
 - [DARMA][darma] - This is a stable (but approaching end-of-life) software for collecting continuous two-dimensional media annotations.
-- [mReliability][mreliability] - This is a stable (but approaching end-of-life) set of MATLAB functions for estimating inter-rater reliability.
-
-- [wcc][wcc] - This is an experimental R package for conducting windowed cross-correlation analyses.
-- [varde][varde] - This is an experimental R package for decomposing the variance in mixed effects models.
-- [agreement][agreement] - This is an experimental R package for estimating inter-rater reliability.
 - [tidymedia][tidymedia] - This is an experimental R package for working with audio, video, and image files.
 - [profiles][profiles] - This is an experimental R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
 ## 🐳 Docker Images:
 - [rocker-bayes][rocker-bayes] - An Ubuntu-based image for Bayesian analysis in R
 - [wsl-cuda-whisper][wsl-cuda-whisper] - Images for AI-based transcription with CUDA-support on WSL
-
-## 📈 GitHub Stats
-[![jmgirard's github stats](https://github-readme-stats.vercel.app/api?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [circumplex]: https://circumplex.jmgirard.com/
 [agreement]: https://github.com/jmgirard/agreement

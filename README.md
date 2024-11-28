@@ -26,7 +26,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [embedpdf][embedpdf] - This is a stable (but questioning) Quarto extension for embedding PDF files in HTML.
 
 ## 🐳 Docker Images:
-- [rocker-bayes][rocker-bayes] - An Ubuntu-based image for Bayesian analysis in R
+- [rocker-bayes][rocker-bayes] - A multiarchitecture Ubuntu-based image for Bayesian analysis in R
 - [wsl-cuda-whisper][wsl-cuda-whisper] - Images for AI-based transcription with CUDA-support on WSL
 
 [circumplex]: https://circumplex.jmgirard.com/

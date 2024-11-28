@@ -19,9 +19,11 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [DARMA][darma] - This is a stable (but approaching end-of-life) software for collecting continuous two-dimensional media annotations.
 - [tidymedia][tidymedia] - This is an experimental R package for working with audio, video, and image files.
 - [openac][openac] - This is an experimental R package for automating common affective computing (and social signal processing) tasks.
+- [profiles][profiles] - This is an experimental R package for managing multiple RStudio config profiles (and comes with RStudio addins).
+
+## 🪟 Quarto Extensions
 - [lordicon][lordicon] - This is a stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [embedpdf][embedpdf] - This is a stable (but questioning) Quarto extension for embedding PDF files in HTML.
-- [profiles][profiles] - This is an experimental R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
 ## 🐳 Docker Images:
 - [rocker-bayes][rocker-bayes] - An Ubuntu-based image for Bayesian analysis in R

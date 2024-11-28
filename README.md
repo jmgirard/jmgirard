@@ -15,11 +15,12 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [agreement][agreement] - This is an experimental R package for estimating inter-rater reliability.
 
 ## 🧭 Research Software:
-- [lordicon][lordicon] - This is a stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
-- [embedpdf][embedpdf] - This is a stable Quarto extension for embedding PDF files in HTML.
 - [CARMA][carma] - This is a stable (but approaching end-of-life) software for collecting continuous media annotations.
 - [DARMA][darma] - This is a stable (but approaching end-of-life) software for collecting continuous two-dimensional media annotations.
 - [tidymedia][tidymedia] - This is an experimental R package for working with audio, video, and image files.
+- [openac][openac] - This is an experimental R package for automating common affective computing (and social signal processing) tasks.
+- [lordicon][lordicon] - This is a stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
+- [embedpdf][embedpdf] - This is a stable (but questioning) Quarto extension for embedding PDF files in HTML.
 - [profiles][profiles] - This is an experimental R package for managing multiple RStudio config profiles (and comes with RStudio addins).
 
 ## 🐳 Docker Images:
@@ -31,6 +32,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [tidymedia]: https://github.com/jmgirard/tidymedia
 [lordicon]: https://github.com/jmgirard/lordicon
 [embedpdf]: https://github.com/jmgirard/embedpdf
+[openac]: https://github.com/jmgirard/openac
 [profiles]: https://github.com/jmgirard/profiles
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu

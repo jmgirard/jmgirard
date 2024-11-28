@@ -30,7 +30,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://r-project.org) [![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=FFFFFF)](https://quarto.org)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://docker.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmgirard)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmgirard&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 [circumplex]: https://circumplex.jmgirard.com/
 [agreement]: https://github.com/jmgirard/agreement

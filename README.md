@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeffrey Girard! 
 
-I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku]. I work in clinical psychology and explore the links between mental health and nonverbal behavior. I collaborate with computer scientists and clinicians to develop technologies that support clinical practice. I use observational methods to quantify facial expressions and other behavioral signals. My main goal is to understand the role that behavioral signals play in emotion and interpersonal communication. I use data science techniques from statistics, machine learning, and software engineering to address research challenges. I love to develop, share, and teach about tools that increase scientific rigor and openness.
+I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku]. I work in clinical psychology and explore the links between mental health, affect, and interpersonal functioning. I collaborate with computer scientists and clinicians to develop technologies that support clinical practice. I use observational methods to quantify facial expressions and other behavioral signals. My main goal is to understand the role that behavioral signals play in emotion and interpersonal communication. I use data science techniques from statistics, machine learning, and software engineering to address research challenges. I love to develop, share, and teach about tools that increase scientific rigor and openness.
 
 *Lab Website:* https://affcom.ku.edu
 

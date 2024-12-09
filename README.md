@@ -20,6 +20,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 ## 🪟 Quarto Extensions
 - [lordicon][lordicon] - This is a stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
+- [honeypot][honeypot] - This is an experimental Quarto extension for detecting LLM cheating on HTML assignments.
 - [embedpdf][embedpdf] - This is a stable (but questioning) Quarto extension for embedding PDF files in HTML.
 
 ## 🐳 Docker Images:
@@ -36,6 +37,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [agreement]: https://github.com/jmgirard/agreement
 [tidymedia]: https://github.com/jmgirard/tidymedia
 [lordicon]: https://github.com/jmgirard/lordicon
+[honeypot]: https://github.com/jmgirard/honeypot
 [embedpdf]: https://github.com/jmgirard/embedpdf
 [openac]: https://github.com/jmgirard/openac
 [profiles]: https://github.com/jmgirard/profiles

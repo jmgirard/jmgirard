@@ -33,26 +33,20 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmgirard&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
+[kupsych]: https://psych.ku.edu
+[ku]: https://ku.edu
 [circumplex]: https://circumplex.jmgirard.com/
+[mreliability]: https://mreliability.jmgirard.com
+[wcc]: https://github.com/jmgirard/wcc
+[varde]: https://github.com/jmgirard/varde
 [agreement]: https://github.com/jmgirard/agreement
+[carma]: https://carma.jmgirard.com
+[darma]: https://darma.jmgirard.com
 [tidymedia]: https://github.com/jmgirard/tidymedia
+[openac]: https://github.com/jmgirard/openac
+[profiles]: https://github.com/jmgirard/profiles
 [lordicon]: https://github.com/jmgirard/lordicon
 [honeypot]: https://github.com/jmgirard/honeypot
 [embedpdf]: https://github.com/jmgirard/embedpdf
-[openac]: https://github.com/jmgirard/openac
-[profiles]: https://github.com/jmgirard/profiles
-[kupsych]: https://psych.ku.edu
-[ku]: https://ku.edu
-[website]: https://www.jmgirard.com
-[email]: mailto:jmgirard@ku.edu
-[twitter]: http://twitter.com/jeffreymgirard
-[scholar]: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
-[publons]: https://publons.com/researcher/517315/jeffrey-m-girard/
-[orcid]: https://orcid.org/0000-0002-7359-3746
-[wcc]: https://github.com/jmgirard/wcc
-[varde]: https://github.com/jmgirard/varde
-[carma]: https://carma.jmgirard.com
-[darma]: https://darma.jmgirard.com
-[mreliability]: https://mreliability.jmgirard.com
 [rocker-bayes]: https://github.com/jmgirard/rocker-bayes
 [wsl-cuda-whisper]: https://github.com/jmgirard/wsl-cuda-whisper

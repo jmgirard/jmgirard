@@ -24,9 +24,9 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [embedpdf][embedpdf] - A stable (but questioning) Quarto extension for embedding PDF files in HTML.
 
 ## Docker Images:
-- [rocker-bayes][rocker-bayes] - A multiarchitecture image for Bayesian analysis in R
-- [wsl-cuda-whisper][wsl-cuda-whisper] - A WSL image for AI transcription from R with CUDA-support
-- [wsl-ollama][wsl-ollama] - A WSL image for calling local LLMs from R with CUDA-support
+- [rocker-bayes][rocker-bayes] - A multiarchitecture (amd64/arm64) image for Bayesian analysis in R
+- [wsl-cuda-whisper][wsl-cuda-whisper] - A WSL (amd64) image for AI transcription from R with CUDA-support
+- [wsl-ollama][wsl-ollama] - A WSL (amd64) image for calling local LLMs from R with CUDA-support
 
 ## Tools and Frameworks:
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://r-project.org) [![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=FFFFFF)](https://quarto.org)

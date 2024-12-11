@@ -25,7 +25,8 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 
 ## Docker Images:
 - [rocker-bayes][rocker-bayes] - A multiarchitecture Ubuntu-based image for Bayesian analysis in R
-- [wsl-cuda-whisper][wsl-cuda-whisper] - Images for AI-based transcription with CUDA-support on WSL
+- [wsl-cuda-whisper][wsl-cuda-whisper] - A WSL image for AI transcription from R with CUDA-support
+- [wsl-ollama][wsl-ollama] - A WSL image for calling local LLMs from R with CUDA-support
 
 ## Tools and Frameworks:
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://r-project.org) [![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=FFFFFF)](https://quarto.org)
@@ -50,3 +51,4 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [embedpdf]: https://github.com/jmgirard/embedpdf
 [rocker-bayes]: https://github.com/jmgirard/rocker-bayes
 [wsl-cuda-whisper]: https://github.com/jmgirard/wsl-cuda-whisper
+[wsl-ollama]: https://github.com/jmgirard/wsl-ollama

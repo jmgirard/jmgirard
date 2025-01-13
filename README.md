@@ -16,7 +16,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 - [DARMA][darma] - A stable (but approaching end-of-life) software for collecting continuous two-dimensional media annotations.
 - [tidymedia][tidymedia] - An experimental R package for working with audio, video, and image files.
 - [openac][openac] - An experimental R package for automating common affective computing (and social signal processing) tasks.
-- [profiles][profiles] - An experimental R package for managing multiple RStudio config profiles (and comes with RStudio addins).
+- [facs][facs] - An experimental R package for working with Facial Action Coding System (FACS) data.
 
 ## Quarto Extensions
 - [lordicon][lordicon] - A stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
@@ -46,7 +46,7 @@ I'm an Assistant Professor in the [Department of Psychology][kupsych] at the [Un
 [darma]: https://darma.jmgirard.com
 [tidymedia]: https://github.com/jmgirard/tidymedia
 [openac]: https://github.com/jmgirard/openac
-[profiles]: https://github.com/jmgirard/profiles
+[facs]: https://github.com/jmgirard/facs
 [lordicon]: https://github.com/jmgirard/lordicon
 [honeypot]: https://github.com/jmgirard/honeypot
 [details]: https://github.com/jmgirard/details

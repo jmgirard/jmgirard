@@ -29,7 +29,7 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 - [rstudio2u][rstudio2u] - A multiarchitecture (amd64/arm64) image combining rstudio and r2u
 - [r2u-ssh][r2u-ssh] - A multiarchitecture (amd/arm64) image for accessing r2u from Positron with SSH 
 - [rocker-bayes][rocker-bayes] - A multiarchitecture (amd64/arm64) image for Bayesian analysis in R
-- [wsl-whisper][wsl-whisper] - A WSL (amd64) image for AI transcription from R with CUDA-support
+- [audio-whisper][audio-whisper] - A WSL (amd64) image for AI transcription from R with CUDA-support
 
 ## Tools and Frameworks:
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://r-project.org) [![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=FFFFFF)](https://quarto.org)
@@ -57,5 +57,5 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 [rstudio2u]: https://github.com/jmgirard/rstudio2u
 [r2u-ssh]: https://github.com/jmgirard/r2u-ssh
 [rocker-bayes]: https://github.com/jmgirard/rocker-bayes
-[wsl-whisper]: https://github.com/jmgirard/wsl-whisper
+[audio-whisper]: https://github.com/jmgirard/audio-whisper
 [wsl-ollama]: https://github.com/jmgirard/wsl-ollama

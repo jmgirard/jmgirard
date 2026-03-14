@@ -51,7 +51,7 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 [openac]: https://github.com/jmgirard/openac
 [facs]: https://github.com/jmgirard/facs
 [hitop]: https://github.com/jmgirard/hitop
-[rlmstudio]: https://github/com/jmgirard/rlmstudio
+[rlmstudio]: https://github.com/jmgirard/rlmstudio
 [lordicon]: https://github.com/jmgirard/lordicon
 [honeypot]: https://github.com/jmgirard/honeypot
 [details]: https://github.com/jmgirard/details

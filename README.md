@@ -18,6 +18,7 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 - [openac][openac] - An experimental R package for automating common affective computing (and social signal processing) tasks.
 - [facs][facs] - An experimental R package for working with Facial Action Coding System (FACS) data.
 - [hitop][hitop] - An experimental R package for working with Hierarchical Taxonomy of Psychopathology (HiTOP) data.
+- [rlmstudio][rlmstudio] - An experimental R package for accessing and controlling local AI models using LM Studio.
 
 ## Quarto Extensions
 - [lordicon][lordicon] - A stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
@@ -50,6 +51,7 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 [openac]: https://github.com/jmgirard/openac
 [facs]: https://github.com/jmgirard/facs
 [hitop]: https://github.com/jmgirard/hitop
+[rlmstudio]: https://github/com/jmgirard/rlmstudio
 [lordicon]: https://github.com/jmgirard/lordicon
 [honeypot]: https://github.com/jmgirard/honeypot
 [details]: https://github.com/jmgirard/details

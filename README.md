@@ -7,7 +7,7 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 ## Statistics Software:
 - [circumplex][circumplex] - A stable R package for analyzing and visualizing circular data.
 - [mReliability][mreliability] - A stable (but approaching end-of-life) set of MATLAB functions for estimating inter-rater reliability.
-- [wcc][wcc] - An experimental R package for conducting windowed cross-correlation analyses.
+- [bsync][bsync] - An experimental R package for conducting behavioral synchrony analyses.
 - [varde][varde] - An experimental R package for decomposing the variance in mixed effects models.
 - [agreement][agreement] - An experimental R package for estimating inter-rater reliability.
 
@@ -42,7 +42,7 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 [ku]: https://ku.edu
 [circumplex]: https://circumplex.jmgirard.com/
 [mreliability]: https://mreliability.jmgirard.com
-[wcc]: https://github.com/jmgirard/wcc
+[bsync]: https://github.com/jmgirard/bsync
 [varde]: https://github.com/affcomlab/varde
 [agreement]: https://github.com/jmgirard/agreement
 [carma]: https://carma.jmgirard.com

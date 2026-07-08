@@ -5,11 +5,10 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 *Lab Website:* https://affcom.ku.edu
 
 ## Statistics Software:
-- [circumplex][circumplex] - A stable R package for analyzing and visualizing circular data.
-- [mReliability][mreliability] - A stable (but approaching end-of-life) set of MATLAB functions for estimating inter-rater reliability.
+- [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.
 - [bsync][bsync] - An experimental R package for conducting behavioral synchrony analyses.
-- [varde][varde] - An experimental R package for decomposing the variance in mixed effects models.
-- [agreement][agreement] - An experimental R package for estimating inter-rater reliability.
+- [circumplex][circumplex] - A stable R package for analyzing and visualizing circular data.
+- [intraclass][intraclass] - An experimental R package for calculating intraclass correlations (ICCs).
 
 ## Research Software:
 - [CARMA][carma] - A stable (but approaching end-of-life) software for collecting continuous media annotations.
@@ -40,11 +39,10 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 
 [kupsych]: https://psych.ku.edu
 [ku]: https://ku.edu
-[circumplex]: https://circumplex.jmgirard.com/
-[mreliability]: https://mreliability.jmgirard.com
+[ackwards]: https://github.com/jmgirard/ackwards
 [bsync]: https://github.com/jmgirard/bsync
-[varde]: https://github.com/affcomlab/varde
-[agreement]: https://github.com/jmgirard/agreement
+[circumplex]: https://circumplex.jmgirard.com/
+[intraclass]: https://github.com/jmgirard/intraclass
 [carma]: https://carma.jmgirard.com
 [darma]: https://darma.jmgirard.com
 [tidymedia]: https://github.com/jmgirard/tidymedia

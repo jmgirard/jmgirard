@@ -11,8 +11,8 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 - [intraclass][intraclass] - An experimental R package for calculating intraclass correlations (ICCs).
 
 ## Research Software:
-- [CARMA][carma] - A stable (but approaching end-of-life) software for collecting continuous media annotations.
-- [DARMA][darma] - A stable (but approaching end-of-life) software for collecting continuous two-dimensional media annotations.
+- [CARMA][carma] - A deprecated software for collecting continuous media annotations.
+- [DARMA][darma] - A deprecated software for collecting continuous two-dimensional media annotations.
 - [tidymedia][tidymedia] - An experimental R package for working with audio, video, and image files.
 - [openac][openac] - An experimental R package for automating common affective computing (and social signal processing) tasks.
 - [facs][facs] - An experimental R package for working with Facial Action Coding System (FACS) data.

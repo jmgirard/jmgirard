@@ -6,30 +6,30 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 
 ## Statistics Software:
 - [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.
-- [bsync][bsync] - An experimental R package for conducting behavioral synchrony analyses.
+- [bsync][bsync] - An *experimental* R package for conducting behavioral synchrony analyses.
 - [circumplex][circumplex] - A stable R package for analyzing and visualizing circular data.
-- [intraclass][intraclass] - An experimental R package for calculating intraclass correlations (ICCs).
+- [intraclass][intraclass] - An *experimental* R package for calculating intraclass correlations (ICCs).
 
 ## Research Software:
 - [CARMA][carma] - A deprecated software for collecting continuous media annotations.
 - [DARMA][darma] - A deprecated software for collecting continuous two-dimensional media annotations.
-- [tidymedia][tidymedia] - An experimental R package for working with audio, video, and image files.
-- [openac][openac] - An experimental R package for automating common affective computing (and social signal processing) tasks.
-- [facs][facs] - An experimental R package for working with Facial Action Coding System (FACS) data.
-- [hitop][hitop] - An experimental R package for working with Hierarchical Taxonomy of Psychopathology (HiTOP) data.
+- [tidymedia][tidymedia] - An *experimental* R package for working with audio, video, and image files.
+- [openac][openac] - An *experimental* R package for automating common affective computing (and social signal processing) tasks.
+- [facs][facs] - An *experimental* R package for working with Facial Action Coding System (FACS) data.
+- [hitop][hitop] - An *experimental* R package for working with Hierarchical Taxonomy of Psychopathology (HiTOP) data.
 - [rlmstudio][rlmstudio] - An experimental R package for accessing and controlling local AI models using LM Studio.
 
 ## Quarto Extensions
 - [lordicon][lordicon] - A stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
-- [honeypot][honeypot] - An experimental Quarto extension for detecting LLM cheating on HTML assignments.
+- [honeypot][honeypot] - An *experimental* Quarto extension for detecting LLM cheating on HTML assignments.
 - [details][details] - A stable Quarto extension for embedding interactive details blocks in HTML documents.
 - [embedpdf][embedpdf] - A stable (but questioning) Quarto extension for embedding PDF files in HTML.
 
 ## Docker Images:
-- [rstudio2u][rstudio2u] - A multiarchitecture (amd64/arm64) image combining rstudio and r2u
-- [r2u-ssh][r2u-ssh] - A multiarchitecture (amd/arm64) image for accessing r2u from Positron with SSH 
-- [rocker-bayes][rocker-bayes] - A multiarchitecture (amd64/arm64) image for Bayesian analysis in R
-- [audio-whisper][audio-whisper] - A WSL (amd64) image for AI transcription from R with CUDA-support
+- [rstudio2u][rstudio2u] - A multiarchitecture (amd64/arm64) image combining rstudio and r2u.
+- [r2u-ssh][r2u-ssh] - A multiarchitecture (amd/arm64) image for accessing r2u from Positron with SSH .
+- [rocker-bayes][rocker-bayes] - A multiarchitecture (amd64/arm64) image for Bayesian analysis in R.
+- [audio-whisper][audio-whisper] - A WSL (amd64) image for AI transcription from R with CUDA-support.
 
 ## Tools and Frameworks:
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://r-project.org) [![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=FFFFFF)](https://quarto.org)

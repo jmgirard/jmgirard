@@ -4,7 +4,8 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 
 *Lab Website:* https://affcom.ku.edu
 
-I am also Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training as well as Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), an AI data lab focused on Human--AI Interaction.
+Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training.
+Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), an data lab focused on solving hard problems in Human--AI Interaction.
 
 ## Statistics Software:
 - [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.

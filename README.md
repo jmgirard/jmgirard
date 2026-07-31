@@ -4,6 +4,8 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 
 *Lab Website:* https://affcom.ku.edu
 
+I am also Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training as well as Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai).
+
 ## Statistics Software:
 - [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.
 - [bsync][bsync] - An *experimental* R package for conducting behavioral synchrony analyses.

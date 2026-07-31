@@ -5,6 +5,7 @@ I'm an Associate Professor in the [Department of Psychology][kupsych] at the [Un
 *Lab Website:* https://affcom.ku.edu
 
 Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training.
+
 Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), an data lab focused on solving hard problems in Human--AI Interaction.
 
 ## Statistics Software:

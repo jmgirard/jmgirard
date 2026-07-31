@@ -1,10 +1,8 @@
 ### Hi there, I'm Jeffrey Girard! 
 
-I'm an Associate Professor in the [Department of Psychology][kupsych] at the [University of Kansas][ku]. I work in clinical psychology and explore the links between mental health, affect, and interpersonal functioning. I collaborate with computer scientists and clinicians to develop technologies that support clinical practice. I use observational methods to quantify facial expressions and other behavioral signals. My main goal is to understand the role that behavioral signals play in emotion and interpersonal communication. I use data science techniques from statistics, machine learning, and software engineering to address research challenges. I love to develop, share, and teach about tools that increase scientific rigor and openness.
-
-Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training.
-
-Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), an data lab focused on solving hard problems in Human--AI Interaction.
+- Associate Professor of Psychology and Data Science at [University of Kansas](https://psych.ku.edu), directing a computational social science research lab.
+- Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training.
+- Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), an data lab focused on solving hard problems in Human--AI Interaction.
 
 ## Statistics Software:
 - [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.

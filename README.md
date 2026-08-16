@@ -22,7 +22,7 @@
 ## Quarto Extensions
 - [lordicon][lordicon] - A stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [embedpdf][embedpdf] - A stable Quarto extension for embedding PDF files in HTML.
-- [honeypot][honeypot] - An *experimental* Quarto extension for detecting LLM cheating on HTML assignments.
+- [honeypot][honeypot] - A deprecated Quarto extension for detecting LLM cheating on HTML assignments.
 - [details][details] - A deprecated Quarto extension for embedding interactive details blocks in HTML documents.
 
 ## Docker Images:

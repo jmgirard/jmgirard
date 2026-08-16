@@ -6,24 +6,24 @@
 
 ## Statistics Software:
 - [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.
-- [bsync][bsync] - An *experimental* R package for conducting behavioral synchrony analyses.
 - [circumplex][circumplex] - A stable R package for analyzing and visualizing circular data.
+- [bsync][bsync] - An *experimental* R package for conducting behavioral synchrony analyses.
 - [intraclass][intraclass] - An *experimental* R package for calculating intraclass correlations (ICCs).
 
 ## Research Software:
-- [CARMA][carma] - A deprecated software for collecting continuous media annotations.
-- [DARMA][darma] - A deprecated software for collecting continuous two-dimensional media annotations.
 - [tidymedia][tidymedia] - An *experimental* R package for working with audio, video, and image files.
 - [openac][openac] - An *experimental* R package for automating common affective computing (and social signal processing) tasks.
 - [facs][facs] - An *experimental* R package for working with Facial Action Coding System (FACS) data.
 - [hitop][hitop] - An *experimental* R package for working with Hierarchical Taxonomy of Psychopathology (HiTOP) data.
-- [rlmstudio][rlmstudio] - An experimental R package for accessing and controlling local AI models using LM Studio.
+- [rlmstudio][rlmstudio] - An *experimental* R package for accessing and controlling local AI models using LM Studio.
+- [CARMA][carma] - A deprecated software for collecting continuous media annotations.
+- [DARMA][darma] - A deprecated software for collecting continuous two-dimensional media annotations.
 
 ## Quarto Extensions
 - [lordicon][lordicon] - A stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
-- [honeypot][honeypot] - An *experimental* Quarto extension for detecting LLM cheating on HTML assignments.
-- [details][details] - A stable Quarto extension for embedding interactive details blocks in HTML documents.
 - [embedpdf][embedpdf] - A stable Quarto extension for embedding PDF files in HTML.
+- [honeypot][honeypot] - An *experimental* Quarto extension for detecting LLM cheating on HTML assignments.
+- [details][details] - A deprecated Quarto extension for embedding interactive details blocks in HTML documents.
 
 ## Docker Images:
 - [rstudio2u][rstudio2u] - A multiarchitecture (amd64/arm64) image combining rstudio and r2u.

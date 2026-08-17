@@ -12,7 +12,7 @@
 
 ## Research Software:
 - [tidymedia][tidymedia] - An *experimental* R package for working with audio, video, and image files.
-- [openac][openac] - An *experimental* R package for automating common affective computing (and social signal processing) tasks.
+- [openac][openac] - An *experimental* R package for automating common affective computing tasks.
 - [facs][facs] - An *experimental* R package for working with Facial Action Coding System (FACS) data.
 - [hitop][hitop] - An *experimental* R package for working with Hierarchical Taxonomy of Psychopathology (HiTOP) data.
 - [rlmstudio][rlmstudio] - An *experimental* R package for accessing and controlling local AI models using LM Studio.

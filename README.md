@@ -22,6 +22,7 @@
 ## Quarto Extensions
 - [lordicon][lordicon] - A stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [embedpdf][embedpdf] - A stable Quarto extension for embedding PDF files in HTML.
+- [quarto-index][quarto-index] - An *experimental* Quarto extension for creating indexes in Quarto books.
 - [honeypot][honeypot] - An archived Quarto extension for detecting LLM cheating on HTML assignments.
 - [details][details] - An archived Quarto extension for embedding interactive details blocks in HTML documents.
 
@@ -59,3 +60,4 @@
 [rocker-bayes]: https://github.com/jmgirard/rocker-bayes
 [audio-whisper]: https://github.com/jmgirard/audio-whisper
 [wsl-ollama]: https://github.com/jmgirard/wsl-ollama
+[quarto-index]: https://github.com/jmgirard/quarto-index

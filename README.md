@@ -5,8 +5,8 @@
 - Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), a data lab focused on solving hard problems in Human--AI Interaction.
 
 ## Statistics Software:
-- [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.
-- [circumplex][circumplex] - A stable R package for analyzing and visualizing circular data.
+- [ackwards][ackwards] - A **stable** R package for hierarchical structure (bass-ackwards) analysis.
+- [circumplex][circumplex] - A **stable** R package for analyzing and visualizing circular data.
 - [bsync][bsync] - An *experimental* R package for conducting behavioral synchrony analyses.
 - [intraclass][intraclass] - An *experimental* R package for calculating intraclass correlations (ICCs).
 
@@ -16,15 +16,15 @@
 - [facs][facs] - An *experimental* R package for working with Facial Action Coding System (FACS) data.
 - [hitop][hitop] - An *experimental* R package for working with Hierarchical Taxonomy of Psychopathology (HiTOP) data.
 - [rlmstudio][rlmstudio] - An *experimental* R package for accessing and controlling local AI models using LM Studio.
-- [CARMA][carma] - An archived software for collecting continuous media annotations.
-- [DARMA][darma] - An archived software for collecting continuous two-dimensional media annotations.
+- *[CARMA][carma] - An archived software for collecting continuous media annotations.*
+- *[DARMA][darma] - An archived software for collecting continuous two-dimensional media annotations.*
 
 ## Quarto Extensions
-- [lordicon][lordicon] - A stable Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
-- [embedpdf][embedpdf] - A stable Quarto extension for embedding PDF files in HTML.
+- [lordicon][lordicon] - A **stable** Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
+- [embedpdf][embedpdf] - A **stable** Quarto extension for embedding PDF files in HTML.
 - [quarto-index][quarto-index] - An *experimental* Quarto extension for creating indexes in Quarto books.
-- [honeypot][honeypot] - An archived Quarto extension for detecting LLM cheating on HTML assignments.
-- [details][details] - An archived Quarto extension for embedding interactive details blocks in HTML documents.
+- *[honeypot][honeypot] - An archived Quarto extension for detecting LLM cheating on HTML assignments.*
+- *[details][details] - An archived Quarto extension for embedding interactive details blocks in HTML documents.*
 
 ## Docker Images:
 - [rstudio2u][rstudio2u] - A multiarchitecture (amd64/arm64) image combining rstudio and r2u.

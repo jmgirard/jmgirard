@@ -2,7 +2,7 @@
 
 - Associate Professor of Psychology at [University of Kansas](https://psych.ku.edu), directing a computational social science research lab.
 - Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training.
-- Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), an data lab focused on solving hard problems in Human--AI Interaction.
+- Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), a data lab focused on solving hard problems in Human--AI Interaction.
 
 ## Statistics Software:
 - [ackwards][ackwards] - A stable R package for hierarchical structure (bass-ackwards) analysis.

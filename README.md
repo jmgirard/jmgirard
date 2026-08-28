@@ -4,6 +4,9 @@
 - Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training.
 - Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), a data lab focused on solving hard problems in Human--AI Interaction.
 
+## Open Courses:
+- [Statistical Methods in R][Statistical Methods in R] - A mostly-done (12/15 chapters) graduate course in applied statistics.
+
 ## Statistics Software:
 - [ackwards][ackwards] - A **stable** R package for hierarchical structure (bass-ackwards) analysis.
 - [circumplex][circumplex] - A **stable** R package for analyzing and visualizing circular data.
@@ -61,3 +64,4 @@
 [audio-whisper]: https://github.com/jmgirard/audio-whisper
 [wsl-ollama]: https://github.com/jmgirard/wsl-ollama
 [quarto-index]: https://github.com/jmgirard/quarto-index
+[Statistical Methods in R]: https://stats.jmgirard.com

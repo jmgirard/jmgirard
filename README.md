@@ -10,8 +10,9 @@
 ## Statistics Software:
 - [ackwards][ackwards] - A **stable** R package for hierarchical structure (bass-ackwards) analysis.
 - [circumplex][circumplex] - A **stable** R package for analyzing and visualizing circular data.
+- [intraclass][intraclass] - A **stable** R package for calculating intraclass correlations (ICCs).
 - [bsync][bsync] - An *experimental* R package for conducting behavioral synchrony analyses.
-- [intraclass][intraclass] - An *experimental* R package for calculating intraclass correlations (ICCs).
+- [nestedtune][nestedtune] - An *experimental* R package for nested cross-validation in tidymodels.
 
 ## Research Software:
 - [tidymedia][tidymedia] - An *experimental* R package for working with audio, video, and image files.
@@ -65,3 +66,4 @@
 [wsl-ollama]: https://github.com/jmgirard/wsl-ollama
 [quarto-index]: https://github.com/jmgirard/quarto-index
 [Statistical Methods in R]: https://stats.jmgirard.com
+[nestedtune]: https://github.com/tidymodels/nestedtune

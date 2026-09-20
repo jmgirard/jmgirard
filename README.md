@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeffrey Girard! 
 
-- Associate Professor of Psychology at [University of Kansas](https://psych.ku.edu), directing a computational social science research lab.
+- Associate Professor of Psychology at [University of Kansas](https://psych.ku.edu), where I direct a computational social science research lab.
 - Co-Founder of [SMaRT Workshops](https://smart-workshops.com), which provides online training workshops for statistics, methods, and research training.
 - Principal Scientist at [Fluid Concepts Research](https://fluidconcepts.ai), a data lab focused on solving hard problems in Human--AI Interaction.
 

@@ -15,6 +15,7 @@
 - [nestedtune][nestedtune] - An *experimental* R package for nested cross-validation in tidymodels.
 
 ## Research Software:
+- [datawizard][datawizard] - A **stable** R package for data wrangling and statistical transformation.
 - [tidymedia][tidymedia] - An *experimental* R package for working with audio, video, and image files.
 - [openac][openac] - An *experimental* R package for automating common affective computing tasks.
 - [facs][facs] - An *experimental* R package for working with Facial Action Coding System (FACS) data.
@@ -67,3 +68,4 @@
 [quarto-index]: https://github.com/jmgirard/quarto-index
 [Statistical Methods in R]: https://stats.jmgirard.com
 [nestedtune]: https://github.com/tidymodels/nestedtune
+[datawizard]: https://github.com/easystats/datawizard

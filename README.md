@@ -16,11 +16,11 @@
 
 ## Research Software:
 - [datawizard][datawizard] - A **stable** R package for data wrangling and statistical transformation.
-- [tidymedia][tidymedia] - An *experimental* R package for working with audio, video, and image files.
+- [rlmstudio][rlmstudio] - A **stable** R package for accessing and controlling local AI models using LM Studio.
+- [tidymedia][tidymedia] - An **stable** R package for working with audio, video, and image files.
 - [openac][openac] - An *experimental* R package for automating common affective computing tasks.
 - [facs][facs] - An *experimental* R package for working with Facial Action Coding System (FACS) data.
 - [hitop][hitop] - An *experimental* R package for working with Hierarchical Taxonomy of Psychopathology (HiTOP) data.
-- [rlmstudio][rlmstudio] - An *experimental* R package for accessing and controlling local AI models using LM Studio.
 - *[CARMA][carma] - An archived software for collecting continuous media annotations.*
 - *[DARMA][darma] - An archived software for collecting continuous two-dimensional media annotations.*
 

@@ -28,6 +28,7 @@
 - [lordicon][lordicon] - A **stable** Quarto extension for embedding animated [Lordicon](https://www.lordicon.com/icons) icons in HTML.
 - [embedpdf][embedpdf] - A **stable** Quarto extension for embedding PDF files in HTML with mobile support.
 - [quarto-index][quarto-index] - An *experimental* Quarto extension for creating indexes in Quarto books.
+- [wrapped][wrapped] - An *experimental* Quarto extension for wrapping text around images and tables.
 - *[honeypot][honeypot] - An archived Quarto extension for detecting LLM cheating on HTML assignments.*
 - *[details][details] - An archived Quarto extension for embedding interactive details blocks in HTML documents.*
 
@@ -69,3 +70,4 @@
 [Statistical Methods in R]: https://stats.jmgirard.com
 [nestedtune]: https://github.com/tidymodels/nestedtune
 [datawizard]: https://github.com/easystats/datawizard
+[wrapped]: https://github.com/jmgirard/wrapped
